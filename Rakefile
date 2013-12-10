@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "shaker"
   gem.homepage = "http://github.com/SweeD/shaker"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Shake your arrayss hard}
+  gem.description = %Q{Shake it baby}
   gem.email = "schwed@avarteq.de"
   gem.authors = ["Markus Schwed"]
   # dependencies defined in Gemfile
